@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/GitHubFinder/static/css/main.ae8ec85a.chunk.css",
-    "main.js": "/GitHubFinder/static/js/main.9a37e62e.chunk.js",
-    "main.js.map": "/GitHubFinder/static/js/main.9a37e62e.chunk.js.map",
-    "runtime-main.js": "/GitHubFinder/static/js/runtime-main.6d377536.js",
-    "runtime-main.js.map": "/GitHubFinder/static/js/runtime-main.6d377536.js.map",
-    "static/js/2.38c5c6d4.chunk.js": "/GitHubFinder/static/js/2.38c5c6d4.chunk.js",
-    "static/js/2.38c5c6d4.chunk.js.map": "/GitHubFinder/static/js/2.38c5c6d4.chunk.js.map",
-    "index.html": "/GitHubFinder/index.html",
-    "precache-manifest.a0a6b4dc5fc5b7307190b2f52a67ecf3.js": "/GitHubFinder/precache-manifest.a0a6b4dc5fc5b7307190b2f52a67ecf3.js",
-    "service-worker.js": "/GitHubFinder/service-worker.js",
-    "static/css/main.ae8ec85a.chunk.css.map": "/GitHubFinder/static/css/main.ae8ec85a.chunk.css.map"
+    "main.css": "/sasikumar44/GitHubFinder.git/static/css/main.ae8ec85a.chunk.css",
+    "main.js": "/sasikumar44/GitHubFinder.git/static/js/main.9a37e62e.chunk.js",
+    "main.js.map": "/sasikumar44/GitHubFinder.git/static/js/main.9a37e62e.chunk.js.map",
+    "runtime-main.js": "/sasikumar44/GitHubFinder.git/static/js/runtime-main.de92fa62.js",
+    "runtime-main.js.map": "/sasikumar44/GitHubFinder.git/static/js/runtime-main.de92fa62.js.map",
+    "static/js/2.38c5c6d4.chunk.js": "/sasikumar44/GitHubFinder.git/static/js/2.38c5c6d4.chunk.js",
+    "static/js/2.38c5c6d4.chunk.js.map": "/sasikumar44/GitHubFinder.git/static/js/2.38c5c6d4.chunk.js.map",
+    "index.html": "/sasikumar44/GitHubFinder.git/index.html",
+    "precache-manifest.26b7eb93ffb844621a89893741a55bb5.js": "/sasikumar44/GitHubFinder.git/precache-manifest.26b7eb93ffb844621a89893741a55bb5.js",
+    "service-worker.js": "/sasikumar44/GitHubFinder.git/service-worker.js",
+    "static/css/main.ae8ec85a.chunk.css.map": "/sasikumar44/GitHubFinder.git/static/css/main.ae8ec85a.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d377536.js",
+    "static/js/runtime-main.de92fa62.js",
     "static/js/2.38c5c6d4.chunk.js",
     "static/css/main.ae8ec85a.chunk.css",
     "static/js/main.9a37e62e.chunk.js"
